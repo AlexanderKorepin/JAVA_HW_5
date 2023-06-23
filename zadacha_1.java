@@ -6,7 +6,11 @@
 // Иванов 5676585
 // Петров 12345
 // Петров 82332
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.Scanner;
 public class zadacha_1 {
     public static void phoneMenu(){
         System.out.println("Для добвавления фамилии (латиницей) и номера телефона введите цифру 1");
